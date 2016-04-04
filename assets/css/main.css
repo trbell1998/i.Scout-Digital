@@ -2341,6 +2341,8 @@
 		text-align: center;
 		padding: 4.5em 0 4.5em 0;
 		margin-bottom: 0;
+        margin-left: 10px;
+        margin-right: 10px;
 	}
 
 		#banner header > p {
