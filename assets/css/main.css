@@ -3,11 +3,19 @@
 @font-face {
     font-family: TheSerif;
     src: url("assets/fonts/TheSerif/TheSerif-HP4SeLig.otf");
+    src: local('☺'), 
+       url("assets/fonts/TheSerif/theserif-hp4selig-webfont.woff") format('woff'), 
+       url("assets/fonts/TheSerif/theserif-hp4selig-webfont.ttf") format('truetype'), 
+       url("assets/fonts/TheSerif/theserif-hp4selig-webfont.svg") format('svg');
 }
 
 @font-face {
     font-family: Frutiger;
     src: url("assets/fonts/Frutiger/Frutiger-Regular.otf");
+    src: local('☺'), 
+       url("assets/fonts/Frutiger/frutiger-regular-webfont.woff") format('woff'), 
+       url("assets/fonts/Frutiger/frutiger-regular-webfont.ttf") format('truetype'), 
+       url("assets/fonts/Frutiger/frutiger-regular-webfont.svg") format('svg');
 }
 
 /*
